@@ -1,8 +1,6 @@
-# UTPGO---android-studio
-An Android mobile application developed using Kotlin, Android Studio, and XML, transforming a Figma prototype into a functional campus ride-booking app.
 # 🚗 UTPGO – Campus Ride Booking App
 
-A campus ride-booking Android application developed using **Kotlin** and **Android Studio**. This project was originally designed in **Figma** and later implemented as a functional Android application.
+A campus ride-booking Android application developed using **Kotlin**, **Java** and **Android Studio**. This project was originally designed in **Figma** and later implemented as a functional Android application.
 
 ## ✨ Features
 - User login
@@ -13,6 +11,7 @@ A campus ride-booking Android application developed using **Kotlin** and **Andro
 
 ## 🛠️ Technologies
 - Kotlin
+- Java
 - Android Studio
 - XML
 - Figma
